@@ -20,6 +20,7 @@ A production-grade security operations center (SOC) anomaly detection system usi
 
 ## Quick Start
 pip install -r requirements.txt
+
 streamlit run dashboard_app.py
 
 ## Performance
